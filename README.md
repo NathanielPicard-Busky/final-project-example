@@ -68,6 +68,19 @@ var List = new mongoose.Schema({
 
 ![list](documentation/list-slug.png)
 
+## Site map
+
+Add site map here
+
+Here's a [complex example from wikipedia](https://upload.wikimedia.org/wikipedia/commons/2/20/Sitemap_google.jpg), but you can create one without the screenshots, drop shadows, etc. ... just names of pages and where they flow to.
+
+## User stories
+
+1. as a user, I can create a new grocery list
+2. as a user, I can view all of the grocery lists I've created in a single list
+3. as a user, I can add items to an existing grocery list
+4. as a user, I can cross off items in an existing grocery list
+
 ## Research Topics
 
 * (6 points) Integrate user authentication
