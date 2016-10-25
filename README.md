@@ -5,7 +5,7 @@
 
 (Write a brief one or two paragraph, high-level description of your project here) Remembering what to buy at the grocery store is waaaaay too difficult. Also, shopping for groceries when you're hungry leads to regrettable purchases. Sooo... that's where Shoppy Shoperson comes in!
 
-Shoppy Shoperson is a web app that will allow users to keep track of multiple grocery lists. Users can register and login. Once they're logged in, they can create or view their grocery list. For every list that they have, they can add items to the list or cross of items.
+Shoppy Shoperson is a web app that will allow users to keep track of multiple grocery lists. Users can register and login. Once they're logged in, they can create or view their grocery list. For every list that they have, they can add items to the list or cross off items.
 
 
 ## Data Model
@@ -78,11 +78,12 @@ var List = new mongoose.Schema({
 * (4 points) Perform client side form validation using a JavaScript library
     * see <code>cs.nyu.edu/~jversoza/ait-final/my-form</code>
     * if you put in a number that's greater than 5, an error message will appear in the dom
-* (2 points) use awesome js library that i found
+* (2 points) Some amazing new JavaScript library
     * the library does...
     * you can see it working in these pages:
         * link 1
         * link 2
+    * I set it as 2 points because integration will be easy
 * ... for total of 12 points (more than required)
     * addtional points will not count for extra credit
 
